@@ -2,7 +2,7 @@
 Scientific Computing, Data Analysis, and Machine Learning with Python
 
 ## Overview
-This project is a comprehensive exploration of Python programming with a focus on three key areas: Scientific Computing, Data Analysis, and Machine Learning. The goal is to showcase practical applications and hands-on projects related to these domains, as outlined in the FreeCodeCamp curriculum.
+This project is a comprehensive exploration of Python programming with a focus on three key areas: Scientific Computing, Data Analysis, and Machine Learning. The goal is to showcase practical applications and hands-on projects related to these domains, as outlined in the FreeCodeCamp curriculum (https://www.freecodecamp.org/learn).
 
 ## Technologies Used
 > 1. Python
